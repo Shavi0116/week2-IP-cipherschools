@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Roboto:wght@100&display=swap');
+body{
+    font-family: 'Poppins';
+}
+
+.container{
+    width: 1400px;
+    margin: 0 auto;
+}
+
+h1{
+    background: #cdcdcd;
+    text-align: center;
+    padding: 15px 0px;
+}
+
+section.about-mariana, section.about-Knox{
+    border: 2px solid #666;
+    padding: 10px;
+
+}
+
+.about-mariana{
+    margin-bottom: 45px;
+}
+
+section h3{
+    text-transform: uppercase;
+}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="exercise 2.css">
+    <title>Document</title>
+</head>
+<body>
+    <h1>My Website</h1>
+    <section class="about-mariana">
+        <h3>Something about mariana</h3>
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eveniet tempora magnam veritatis vel cum eos provident dolorem, inventore eaque maxime, aliquid, sint autem! At inventore ullam ratione tempore eum odio sint accusamus eaque mollitia expedita, illum eos doloremque. Inventore atque dolor illo assumenda officia nostrum. Dignissimos amet maxime eius eligendi quos, in reprehenderit non repellat magni. Incidunt enim obcaecati asperiores ratione atque fuga explicabo error fugit veniam quos ad, repudiandae vitae voluptatem quae? Distinctio officiis, hic porro rerum ab molestias obcaecati! Hic laudantium illum accusantium consequuntur corporis eos nobis nesciunt consequatur repellat deserunt quaerat fugiat error qui, officia totam maxime blanditiis labore dolorem minima facilis adipisci eum iusto aliquam optio. Quidem, aliquid vero in temporibus nam eveniet. Perferendis voluptatem cum harum eos illo minus optio amet quae, quia dolore sed, repudiandae ut illum laboriosam. Cupiditate similique consequatur iste voluptas totam ab, quasi, quos autem qui possimus fugit omnis laboriosam harum vel ullam illo doloribus architecto sunt inventore fuga officia voluptates nobis optio! Tempora ex alias ab odit suscipit, vitae sit, at cupiditate dolor repellat fuga excepturi numquam quo recusandae eius dolorum ipsa blanditiis nemo porro eligendi. Tempore doloremque perferendis delectus reprehenderit pariatur quod possimus, dolorum enim veniam omnis minus atque mollitia quos ipsum aspernatur, alias laboriosam nam numquam repellendus eligendi dolorem fuga officia aliquid est. Voluptates amet sint aliquid mollitia aliquam eveniet iste! Perferendis maxime, vel recusandae nesciunt, aspernatur natus illum exercitationem incidunt ullam autem sunt ipsa! Ducimus blanditiis vero quod saepe veniam libero iusto accusantium molestias officiis laudantium nihil incidunt, laborum impedit amet ut dolorem adipisci recusandae doloremque officia quae ratione voluptatum reiciendis accusamus? Tempore veritatis, dolores corporis officiis ea dolorem consequatur, hic dolor voluptates neque soluta iure obcaecati beatae exercitationem quidem iste alias aperiam ratione. Dolorum sequi praesentium consequatur nemo rerum blanditiis, eius nesciunt excepturi, nam, odit fuga.</p>
+    </section>
+    <section class="about-Knox">
+        <h3>Something about Knox</h3>
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eveniet tempora magnam veritatis vel cum eos provident dolorem, inventore eaque maxime, aliquid, sint autem! At inventore ullam ratione tempore eum odio sint accusamus eaque mollitia expedita, illum eos doloremque. Inventore atque dolor illo assumenda officia nostrum. Dignissimos amet maxime eius eligendi quos, in reprehenderit non repellat magni. Incidunt enim obcaecati asperiores ratione atque fuga explicabo error fugit veniam quos ad, repudiandae vitae voluptatem quae? Distinctio officiis, hic porro rerum ab molestias obcaecati! Hic laudantium illum accusantium consequuntur corporis eos nobis nesciunt consequatur repellat deserunt quaerat fugiat error qui, officia totam maxime blanditiis labore dolorem minima facilis adipisci eum iusto aliquam optio. Quidem, aliquid vero in temporibus nam eveniet. Perferendis voluptatem cum harum eos illo minus optio amet quae, quia dolore sed, repudiandae ut illum laboriosam. Cupiditate similique consequatur iste voluptas totam ab, quasi, quos autem qui possimus fugit omnis laboriosam harum vel ullam illo doloribus architecto sunt inventore fuga officia voluptates nobis optio! Tempora ex alias ab odit suscipit, vitae sit, at cupiditate dolor repellat fuga excepturi numquam quo recusandae eius dolorum ipsa blanditiis nemo porro eligendi. Tempore doloremque perferendis delectus reprehenderit pariatur quod possimus, dolorum enim veniam omnis minus atque mollitia quos ipsum aspernatur, alias laboriosam nam numquam repellendus eligendi dolorem fuga officia aliquid est. Voluptates amet sint aliquid mollitia aliquam eveniet iste! Perferendis maxime, vel recusandae nesciunt, aspernatur natus illum exercitationem incidunt ullam autem sunt ipsa! Ducimus blanditiis vero quod saepe veniam libero iusto accusantium molestias officiis laudantium nihil incidunt, laborum impedit amet ut dolorem adipisci recusandae doloremque officia quae ratione voluptatum reiciendis accusamus? Tempore veritatis, dolores corporis officiis ea dolorem consequatur, hic dolor voluptates neque soluta iure obcaecati beatae exercitationem quidem iste alias aperiam ratione. Dolorum sequi praesentium consequatur nemo rerum blanditiis, eius nesciunt excepturi, nam, odit fuga.</p>
+    </section>
+</body>
+</html>
