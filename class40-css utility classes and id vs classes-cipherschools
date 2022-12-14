@@ -1,0 +1,28 @@
+.text-red{
+    color: rgb(167,56,0);
+}
+.text-green{
+    color: rgb(0,133,33);
+}
+.bg-dark{
+    background-color: #555;
+}
+
+#html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="class 40.css">
+    <title>Document</title>
+</head>
+<body>
+    <h1 id="heading">Main heading</h1>
+    <p class="blog-content text-green bg-dark">Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt eum amet quibusdam et dicta aspernatur quae soluta dolore, laboriosam perspiciatis fugit sunt facilis voluptatem ducimus labore, suscipit commodi, maiores autem repellat sint? Nisi necessitatibus, animi vero optio id a fuga, cumque excepturi aspernatur voluptate nobis, pariatur dolores amet rem officia expedita placeat quia accusantium quod atque quaerat. Praesentium nam fuga repudiandae minima magnam inventore blanditiis, labore doloremque placeat repellat at dolore amet, quibusdam dolorem illum? Tempore error iste reiciendis, dolorem itaque sapiente fugit, optio maiores accusamus doloremque voluptas. Perspiciatis officiis quod beatae ratione reiciendis numquam quidem? Animi atque rerum accusantium?</p>
+
+    <h2 id="haeading-two">Heading Two</h2>
+    <p class="blog-content text-red">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vel autem a sed ipsam impedit illum ipsum animi placeat, tenetur iusto ullam, voluptate consectetur quas amet quod ut voluptas quia hic possimus maxime modi minus debitis adipisci? Dolorem minima ut ex alias quibusdam quisquam architecto impedit perspiciatis quos sunt natus, incidunt suscipit corporis. Atque, voluptate! Commodi molestiae autem ipsum? At incidunt amet voluptatem porro excepturi repudiandae impedit magni dolores, id rem suscipit atque sunt velit labore omnis consequuntur temporibus obcaecati ducimus voluptatum voluptas laboriosam! Modi sit ut, molestiae quam amet recusandae aut aspernatur commodi quasi, ea ullam perspiciatis ad repellendus nisi.</p>
+</body>
+</html>
