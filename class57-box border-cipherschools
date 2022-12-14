@@ -1,0 +1,44 @@
+hr{
+    width: 500px;
+    margin-left: 0;
+    border: 0.5px dashed black;
+}
+
+.box1{
+    width: 500px;
+    background: plum;
+    margin: 10px solid purple;
+    padding: 50px;
+}
+.box2{
+    width: 500px;
+    background: plum;
+    margin: 10px solid purple;
+    padding: 50px;
+    margin-bottom:10px ;
+    box-sizing: border-box;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <hr>
+
+    <div class="box2">
+        <h3>Heading</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti enim dolore nobis itaque, impedit accusantium architecto mollitia sed fugiat, quod atque, molestias recusandae? Beatae maxime ipsam ea sunt, at eum repudiandae voluptas iusto dolor, laboriosam ducimus perspiciatis. Tempora, quo repellendus. Iure ipsam suscipit non dolores consectetur dolorem dolorum dolore tempora? Explicabo voluptate dolor atque officia sed molestiae commodi fuga nemo alias ducimus doloremque, reprehenderit, vitae excepturi, placeat non minus! Nesciunt explicabo eos autem debitis corrupti. Tenetur tempore recusandae deserunt eius veniam, modi sunt autem culpa, magni corrupti quo, delectus cupiditate! Fuga, odio quo. Sed, labore officia. Molestiae commodi ut fuga?</p>
+        
+    </div>
+    <div class="box1">
+        <h3>Heading</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti enim dolore nobis itaque, impedit accusantium architecto mollitia sed fugiat, quod atque, molestias recusandae? Beatae maxime ipsam ea sunt, at eum repudiandae voluptas iusto dolor, laboriosam ducimus perspiciatis. Tempora, quo repellendus. Iure ipsam suscipit non dolores consectetur dolorem dolorum dolore tempora? Explicabo voluptate dolor atque officia sed molestiae commodi fuga nemo alias ducimus doloremque, reprehenderit, vitae excepturi, placeat non minus! Nesciunt explicabo eos autem debitis corrupti. Tenetur tempore recusandae deserunt eius veniam, modi sunt autem culpa, magni corrupti quo, delectus cupiditate! Fuga, odio quo. Sed, labore officia. Molestiae commodi ut fuga?</p>
+
+    </div>
+</body>
+</html>
