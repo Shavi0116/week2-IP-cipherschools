@@ -1,0 +1,84 @@
+body{
+    padding: 0px 40px;
+}
+
+a{
+    color: #444;
+    text-decoration: none;
+}
+
+h1,h2,h3{
+    color: rgb(139, 137, 137);
+
+}
+
+h2{
+    border-bottom: 1px solid #444;
+}
+
+nav {
+    background: rgb(216, 204, 204)
+
+}
+nav ul{
+    padding-left: 0px;
+    text-align: center;
+}
+
+nav li{
+    display: inline-block;
+    list-style: none;
+    border-bottom: 1px solid rgb(40, 40, 41);
+    margin: 15px 20px;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+section{
+    margin-top: 50px;
+}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="exercise 3.css">
+    <title>Document</title>
+</head>
+<body>
+    <nav>
+        <ul>
+            <li ><a href="#home">Home</a></li>
+            <li ><a href="#about-us">About</a></li>
+            <li ><a href="#contact-us">Contact Us</a></li>
+        </ul>
+    </nav>
+    <section id="home">
+        <h2>Welcome to this website</h2>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti atque, sapiente perferendis eaque adipisci id expedita nemo ad laborum magni debitis dolorem nostrum enim, maxime culpa natus suscipit sunt? Cumque quae maxime eius eaque tenetur. Ullam doloremque nobis fugit? Aut ullam quaerat assumenda quo? Voluptatum laudantium nesciunt alias ipsa nobis aut ullam dicta placeat vel? A temporibus vel distinctio non veniam praesentium! Voluptatem, distinctio, veritatis nesciunt ipsa, dicta culpa dignissimos odit soluta aliquam asperiores perferendis. Totam numquam tenetur fugit reiciendis omnis debitis! Asperiores fugit velit, atque dolorum deleniti delectus animi. Itaque, harum animi eligendi eveniet amet vitae facere et ipsum.</p>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti atque, sapiente perferendis eaque adipisci id expedita nemo ad laborum magni debitis dolorem nostrum enim, maxime culpa natus suscipit sunt? Cumque quae maxime eius eaque tenetur. Ullam doloremque nobis fugit? Aut ullam quaerat assumenda quo? Voluptatum laudantium nesciunt alias ipsa nobis aut ullam dicta placeat vel? A temporibus vel distinctio non veniam praesentium! Voluptatem, distinctio, veritatis nesciunt ipsa, dicta culpa dignissimos odit soluta aliquam asperiores perferendis. Totam numquam tenetur fugit reiciendis omnis debitis! Asperiores fugit velit, atque dolorum deleniti delectus animi. Itaque, harum animi eligendi eveniet amet vitae facere et ipsum.</p>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti atque, sapiente perferendis eaque adipisci id expedita nemo ad laborum magni debitis dolorem nostrum enim, maxime culpa natus suscipit sunt? Cumque quae maxime eius eaque tenetur. Ullam doloremque nobis fugit? Aut ullam quaerat assumenda quo? Voluptatum laudantium nesciunt alias ipsa nobis aut ullam dicta placeat vel? A temporibus vel distinctio non veniam praesentium! Voluptatem, distinctio, veritatis nesciunt ipsa, dicta culpa dignissimos odit soluta aliquam asperiores perferendis. Totam numquam tenetur fugit reiciendis omnis debitis! Asperiores fugit velit, atque dolorum deleniti delectus animi. Itaque, harum animi eligendi eveniet amet vitae facere et ipsum.</p>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti atque, sapiente perferendis eaque adipisci id expedita nemo ad laborum magni debitis dolorem nostrum enim, maxime culpa natus suscipit sunt? Cumque quae maxime eius eaque tenetur. Ullam doloremque nobis fugit? Aut ullam quaerat assumenda quo? Voluptatum laudantium nesciunt alias ipsa nobis aut ullam dicta placeat vel? A temporibus vel distinctio non veniam praesentium! Voluptatem, distinctio, veritatis nesciunt ipsa, dicta culpa dignissimos odit soluta aliquam asperiores perferendis. Totam numquam tenetur fugit reiciendis omnis debitis! Asperiores fugit velit, atque dolorum deleniti delectus animi. Itaque, harum animi eligendi eveniet amet vitae facere et ipsum.</p>
+        
+    </section>
+    <section id="about-us">
+        <h2>About Us</h2>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti atque, sapiente perferendis eaque adipisci id expedita nemo ad laborum magni debitis dolorem nostrum enim, maxime culpa natus suscipit sunt? Cumque quae maxime eius eaque tenetur. Ullam doloremque nobis fugit? Aut ullam quaerat assumenda quo? Voluptatum laudantium nesciunt alias ipsa nobis aut ullam dicta placeat vel? A temporibus vel distinctio non veniam praesentium! Voluptatem, distinctio, veritatis nesciunt ipsa, dicta culpa dignissimos odit soluta aliquam asperiores perferendis. Totam numquam tenetur fugit reiciendis omnis debitis! Asperiores fugit velit, atque dolorum deleniti delectus animi. Itaque, harum animi eligendi eveniet amet vitae facere et ipsum.</p>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti atque, sapiente perferendis eaque adipisci id expedita nemo ad laborum magni debitis dolorem nostrum enim, maxime culpa natus suscipit sunt? Cumque quae maxime eius eaque tenetur. Ullam doloremque nobis fugit? Aut ullam quaerat assumenda quo? Voluptatum laudantium nesciunt alias ipsa nobis aut ullam dicta placeat vel? A temporibus vel distinctio non veniam praesentium! Voluptatem, distinctio, veritatis nesciunt ipsa, dicta culpa dignissimos odit soluta aliquam asperiores perferendis. Totam numquam tenetur fugit reiciendis omnis debitis! Asperiores fugit velit, atque dolorum deleniti delectus animi. Itaque, harum animi eligendi eveniet amet vitae facere et ipsum.</p>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti atque, sapiente perferendis eaque adipisci id expedita nemo ad laborum magni debitis dolorem nostrum enim, maxime culpa natus suscipit sunt? Cumque quae maxime eius eaque tenetur. Ullam doloremque nobis fugit? Aut ullam quaerat assumenda quo? Voluptatum laudantium nesciunt alias ipsa nobis aut ullam dicta placeat vel? A temporibus vel distinctio non veniam praesentium! Voluptatem, distinctio, veritatis nesciunt ipsa, dicta culpa dignissimos odit soluta aliquam asperiores perferendis. Totam numquam tenetur fugit reiciendis omnis debitis! Asperiores fugit velit, atque dolorum deleniti delectus animi. Itaque, harum animi eligendi eveniet amet vitae facere et ipsum.</p>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti atque, sapiente perferendis eaque adipisci id expedita nemo ad laborum magni debitis dolorem nostrum enim, maxime culpa natus suscipit sunt? Cumque quae maxime eius eaque tenetur. Ullam doloremque nobis fugit? Aut ullam quaerat assumenda quo? Voluptatum laudantium nesciunt alias ipsa nobis aut ullam dicta placeat vel? A temporibus vel distinctio non veniam praesentium! Voluptatem, distinctio, veritatis nesciunt ipsa, dicta culpa dignissimos odit soluta aliquam asperiores perferendis. Totam numquam tenetur fugit reiciendis omnis debitis! Asperiores fugit velit, atque dolorum deleniti delectus animi. Itaque, harum animi eligendi eveniet amet vitae facere et ipsum.</p>
+
+    </section>
+    <section id="contact-us">
+        <h2>Contact Us</h2>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti atque, sapiente perferendis eaque adipisci id expedita nemo ad laborum magni debitis dolorem nostrum enim, maxime culpa natus suscipit sunt? Cumque quae maxime eius eaque tenetur. Ullam doloremque nobis fugit? Aut ullam quaerat assumenda quo? Voluptatum laudantium nesciunt alias ipsa nobis aut ullam dicta placeat vel? A temporibus vel distinctio non veniam praesentium! Voluptatem, distinctio, veritatis nesciunt ipsa, dicta culpa dignissimos odit soluta aliquam asperiores perferendis. Totam numquam tenetur fugit reiciendis omnis debitis! Asperiores fugit velit, atque dolorum deleniti delectus animi. Itaque, harum animi eligendi eveniet amet vitae facere et ipsum.</p>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti atque, sapiente perferendis eaque adipisci id expedita nemo ad laborum magni debitis dolorem nostrum enim, maxime culpa natus suscipit sunt? Cumque quae maxime eius eaque tenetur. Ullam doloremque nobis fugit? Aut ullam quaerat assumenda quo? Voluptatum laudantium nesciunt alias ipsa nobis aut ullam dicta placeat vel? A temporibus vel distinctio non veniam praesentium! Voluptatem, distinctio, veritatis nesciunt ipsa, dicta culpa dignissimos odit soluta aliquam asperiores perferendis. Totam numquam tenetur fugit reiciendis omnis debitis! Asperiores fugit velit, atque dolorum deleniti delectus animi. Itaque, harum animi eligendi eveniet amet vitae facere et ipsum.</p>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti atque, sapiente perferendis eaque adipisci id expedita nemo ad laborum magni debitis dolorem nostrum enim, maxime culpa natus suscipit sunt? Cumque quae maxime eius eaque tenetur. Ullam doloremque nobis fugit? Aut ullam quaerat assumenda quo? Voluptatum laudantium nesciunt alias ipsa nobis aut ullam dicta placeat vel? A temporibus vel distinctio non veniam praesentium! Voluptatem, distinctio, veritatis nesciunt ipsa, dicta culpa dignissimos odit soluta aliquam asperiores perferendis. Totam numquam tenetur fugit reiciendis omnis debitis! Asperiores fugit velit, atque dolorum deleniti delectus animi. Itaque, harum animi eligendi eveniet amet vitae facere et ipsum.</p>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti atque, sapiente perferendis eaque adipisci id expedita nemo ad laborum magni debitis dolorem nostrum enim, maxime culpa natus suscipit sunt? Cumque quae maxime eius eaque tenetur. Ullam doloremque nobis fugit? Aut ullam quaerat assumenda quo? Voluptatum laudantium nesciunt alias ipsa nobis aut ullam dicta placeat vel? A temporibus vel distinctio non veniam praesentium! Voluptatem, distinctio, veritatis nesciunt ipsa, dicta culpa dignissimos odit soluta aliquam asperiores perferendis. Totam numquam tenetur fugit reiciendis omnis debitis! Asperiores fugit velit, atque dolorum deleniti delectus animi. Itaque, harum animi eligendi eveniet amet vitae facere et ipsum.</p>
+
+    </section>
+</body>
+</html>
