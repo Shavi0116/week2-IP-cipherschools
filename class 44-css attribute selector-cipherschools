@@ -1,0 +1,51 @@
+input[type="text"]{
+    color: rgb(155, 77, 77);
+    background-color: aqua;
+}
+
+input[type="password"]{
+    background-color: pink;
+}
+
+/*a[href = "https://google.co.in"]{
+    color: blanchedalmond;
+}*/
+
+/*[href*="google"]{
+    color: rgb(9, 107, 74);
+}*/
+
+a[href^="https"]{
+    color: rgb(9, 107, 74);
+}
+a[href$=".com"]{
+    color: rgb(196, 77, 146);
+}
+#html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>links</h2>
+    <a href="https://google.co.in">Google India</a><br>
+    <a href="https://google.co.uk">Google UK</a><br>
+    <a href="https://flipkart.com">Flipkart</a><br>
+    <a href="facebook.com">Facebook</a><br>
+
+    <h2>Form</h2>
+    <form>
+        <label for="fname">First name</label><br>
+        <input type="text" id="fname"><br>
+        <label for="lname">Last name</label><br>
+        <input type="text" id="lname"><br>
+        <label for="pass">password</label><br>
+        <input type="password" id="pass"><br>
+        <input type="button" id="submit">
+    </form>
+</body>
+</html>
