@@ -1,0 +1,36 @@
+.box1, .box2{
+    border: 2px solid #444;
+    padding: 10px;
+}
+
+.box1{
+    margin-bottom: 40px;
+}
+
+.box2{
+    margin-top: 50px;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="box1">
+        <h2>this is box 1</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta aliquid consequuntur qui eveniet aperiam impedit laboriosam veniam? Aut, nulla. Illo, nisi fuga quis ipsa velit dicta sit magnam maxime veniam voluptatem ratione modi nam repudiandae incidunt. Veritatis rerum iure voluptates doloremque odit consequuntur eaque, enim neque dolores, totam repellendus, itaque nemo et inventore nostrum praesentium optio dignissimos ea ab in quasi! Aperiam cum doloremque voluptatum consequatur esse? Expedita mollitia, labore perspiciatis facilis dignissimos non molestiae laboriosam aliquid. Eveniet in excepturi quam omnis adipisci. Ea laboriosam atque cumque. Necessitatibus, eum? Commodi eos, rem iure sed modi inventore vero neque exercitationem necessitatibus.</p>
+
+        
+    </div>
+    <div class="box2">
+        <h2>this is box 2</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta aliquid consequuntur qui eveniet aperiam impedit laboriosam veniam? Aut, nulla. Illo, nisi fuga quis ipsa velit dicta sit magnam maxime veniam voluptatem ratione modi nam repudiandae incidunt. Veritatis rerum iure voluptates doloremque odit consequuntur eaque, enim neque dolores, totam repellendus, itaque nemo et inventore nostrum praesentium optio dignissimos ea ab in quasi! Aperiam cum doloremque voluptatum consequatur esse? Expedita mollitia, labore perspiciatis facilis dignissimos non molestiae laboriosam aliquid. Eveniet in excepturi quam omnis adipisci. Ea laboriosam atque cumque. Necessitatibus, eum? Commodi eos, rem iure sed modi inventore vero neque exercitationem necessitatibus.</p>
+
+        
+    </div>
+</body>
+</html>
