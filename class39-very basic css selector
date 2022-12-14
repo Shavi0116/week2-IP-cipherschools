@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="class 39.css">
+    <title>CSS selector</title>
+</head>
+<body>
+    <div id="main-heading">
+        <h1>Main Heading</h1>
+    </div>
+
+    <div class="main-section">
+        <h2>Sub heading</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus saepe maiores alias neque harum libero nihil natus repellat ipsam hic, illo at aliquid eligendi iste iusto? Corrupti accusamus quo quisquam error dignissimos, quia aperiam architecto, aliquam, distinctio nostrum odit dolorum non dolorem molestiae itaque qui. Obcaecati, ipsum nulla? Tenetur asperiores dicta adipisci. Totam, quasi cupiditate nostrum, quos beatae veniam cumque rerum quia pariatur voluptatibus ratione, nam mollitia voluptatem doloribus obcaecati in? Perspiciatis non facilis sapiente modi expedita ratione. Obcaecati quasi exercitationem enim placeat eum tempora ipsam officiis, vitae aliquid quam voluptates esse commodi, eos non, dolorum accusantium inventore dolor! Praesentium in error magni obcaecati porro deleniti inventore, asperiores animi natus consequatur fugit quasi quo delectus molestias illo culpa libero voluptatum? Nulla eos molestiae totam consequatur sunt rem ut accusamus, eaque eius ducimus accusantium, culpa rerum veniam soluta voluptatum explicabo odit corrupti id! In modi repellat quae excepturi, repudiandae aut. Debitis fuga id accusamus sapiente vero, ullam iure officia suscipit tenetur aperiam incidunt expedita quo consequatur pariatur, itaque eveniet laboriosam. Eaque doloribus expedita ut culpa quo nesciunt accusamus fuga ullam quae nemo aut quas dolorum provident perspiciatis similique libero obcaecati aliquid, inventore quis iste, quidem qui, mollitia maxime voluptates! Sint ab libero illum porro labore consequuntur iure totam dignissimos consectetur! Quidem sapiente vitae inventore placeat? Vitae sint debitis ipsa error laudantium! Quos laboriosam repellendus molestias vel vitae fugiat maiores aperiam eum, mollitia iste eaque dolor praesentium earum eos eligendi tenetur voluptatibus commodi aliquid corrupti, delectus repellat autem alias doloribus totam? Sequi voluptatibus nemo nesciunt, harum deserunt aperiam velit non possimus assumenda officiis. Laboriosam ea similique ipsam praesentium. Quisquam repellat praesentium voluptatum recusandae laboriosam deserunt, veritatis mollitia corporis tempora adipisci dolorum nihil illum quod quam nam obcaecati aperiam voluptate similique? Totam praesentium repellat quae porro quia dicta molestiae aperiam atque dignissimos sequi.</p>
+    </div>
+    
+</body>
+</html>
+
+#css
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#main-heading{
+    background-color: rgb(91, 105, 105);
+}
+
+.main-section{
+    background-color: rgb(194, 191, 197);
+}
+p{
+    color: rgb(40, 5, 236);
+}
