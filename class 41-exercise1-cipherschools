@@ -1,0 +1,38 @@
+#heading{
+    background-color: aliceblue;
+
+}
+#blog{
+    background-color: aliceblue;
+}
+.head{
+    color: rgb(33, 112, 112);
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="excercise1.css">
+    <title>Document</title>
+</head>
+<body>
+    <div id="heading">
+        <h1 class="head">Main Header</h1>
+        <ul>
+            <li>item</li>
+            <li>item</li>
+            <li>item</li>
+        </ul><br>
+    </div>
+    <div id="blog">
+        <h2 class="head">My first blog</h2><br>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt officia eius tenetur odio, <span>atque doloremque obcaecati fuga deleniti aspernatur dignissimos</span> fugiat officiis eum iure vel quos. Harum ea sequi nemo animi libero aliquid voluptas corrupti accusantium! Facilis rerum voluptate error excepturi, tempore consectetur corrupti blanditiis sint corporis quam explicabo officia veritatis impedit enim! Accusantium minima qui facere doloremque, quo amet iure animi odit cum, corporis praesentium vero reprehenderit illum voluptatum suscipit dolorum ea tempore a, voluptate dicta? Id amet aliquid voluptatum sit qui ab cumque aspernatur, quis perferendis eligendi laudantium nemo rerum ad possimus earum facere atque facilis optio.</p><br>
+        <h2 class="head">My second blog</h2><br>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt eveniet officiis molestiae accusamus magnam ratione facere quisquam facilis in suscipit, assumenda repellendus maiores recusandae voluptatum animi pariatur, sunt cupiditate nemo sapiente. Quidem nostrum perspiciatis, deserunt, molestias amet quos ratione numquam impedit, dolores atque illum. Sit rem nihil nostrum nobis, deserunt dolorem corporis quia repudiandae autem natus sed saepe, id quo nam ipsum error nesciunt veniam. Nesciunt culpa veritatis blanditiis odit maiores voluptate optio voluptates, ducimus quaerat dolorum iste facilis in consequuntur corrupti quod delectus eius! Rem quod vitae voluptas neque quaerat qui itaque corrupti hic doloribus, cupiditate voluptatem nulla esse.</p>
+    </div>
+  
+</body>
+</html>
