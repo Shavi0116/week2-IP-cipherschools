@@ -1,0 +1,22 @@
+img{
+    width: 400px;
+    border: 4px solid black;
+    padding: 10px;
+    margin: 10px;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="class 53.css">
+    <title>Document</title>
+</head>
+<body>
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQtCmx9sc3DaZuiipSX0Rt4x6y-4LJMCAamQ&usqp=CAU">
+   <img src="https://images.pexels.com/photos/821718/pexels-photo-821718.jpeg?auto=compress&cs=tinysrgb&w=600">
+   <img src="https://images.pexels.com/photos/11563560/pexels-photo-11563560.jpeg?auto=compress&cs=tinysrgb&w=600">
+</body>
+</html>
